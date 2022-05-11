@@ -21,7 +21,7 @@
             <iframe name="I2" height="100%" width="177" border="0" frameborder="0" src="left.jsp"></iframe>
         </td>
         <td>
-            <iframe name="I1" src="tab/tab.jsp" height="100%" width="100%" border="0" frameborder="0"></iframe>
+            <iframe name="I1" src="tab/tab.html" height="100%" width="100%" border="0" frameborder="0"></iframe>
         </td>
         <td background="images/main_42.gif" style="width:3px;"></td>
     </tr>

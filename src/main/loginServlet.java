@@ -35,7 +35,7 @@ public class loginServlet extends HttpServlet {
             request.getRequestDispatcher("/login.jsp").forward(request, response);
 //            System.out.println("页面为空");
         }else if (userName.equals(user)&&password.equals(pasd)){
-            request.getRequestDispatcher("/center.jsp").forward(request, response);
+            request.getRequestDispatcher("/index.jsp").forward(request, response);
         }else {
             request.getRequestDispatcher("/login.jsp").forward(request, response);
         }
