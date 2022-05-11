@@ -1,5 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8"%>
+<!DOCTYPE>
+<html >
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
     <link rel="stylesheet" href="../css/edit.css" type="text/css" />
@@ -36,86 +38,6 @@
                         <th width="14%" >节点类型</th>
                         <th width="24%" >服务器进程配置</th>
                         <th width="7%" >编辑</th>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
-                    </tr>
-                    <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
-                        <td><a href="#">服务器进程配置</a></td>
-                        <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
                     </tr>
                     <tr align="center">
                         <td>A0012</td>
