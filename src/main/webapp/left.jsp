@@ -56,7 +56,7 @@
                                             <td width="99">
                                                 <table>
                                                     <tr>
-                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/sstab.html')">个人信息查看</td>
+                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/sstab.jsp')">个人信息查看</td>
                                                     </tr>
                                                 </table>
                                             </td>
@@ -72,7 +72,7 @@
                                             <td width="99">
                                                 <table>
                                                     <tr>
-                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/newInfo.html')">测试菜单</td>
+                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/newlnfo.jsp')">测试菜单</td>
                                                     </tr>
                                                 </table>
                                             </td>
@@ -186,7 +186,7 @@
                                             <td width="99">
                                                 <table>
                                                     <tr>
-                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/Chart.htm')">员工性别统计</td>
+                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/Chart.jsp')">员工性别统计</td>
                                                     </tr>
                                                 </table>
                                             </td>
@@ -202,7 +202,7 @@
                                             <td width="99">
                                                 <table>
                                                     <tr>
-                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/Chart1.htm')">员工入职统计</td>
+                                                        <td height="23" style="cursor:pointer;" onMouseOver="this.style.backgroundImage='url(images/tab_bg.gif)';this.style.borderStyle='solid';this.style.borderWidth='1';borderColor='#adb9c2'; "onmouseout="this.style.backgroundImage='url()';this.style.borderStyle='none'" onClick="sub('tab/Chart1.jsp')">员工入职统计</td>
                                                     </tr>
                                                 </table>
                                             </td>

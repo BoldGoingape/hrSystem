@@ -26,7 +26,7 @@
 
 <!--中-->
 <div class="editCenterbg">
-    <table>
+    <table >
         <tr>
             <td class="tabLeft"></td>
             <td class="tabCenter">
@@ -40,10 +40,10 @@
                         <th width="7%" >编辑</th>
                     </tr>
                     <tr align="center">
-                        <td>A0012</td>
-                        <td>192.168.0.124</td>
-                        <td>wtz_fh</td>
-                        <td>DBserver</td>
+                        <td><%= request.getAttribute("id") %></td>
+                        <td><%= request.getAttribute("ip") %></td>
+                        <td><%= request.getAttribute("name") %></td>
+                        <td><%= request.getAttribute("type") %></td>
                         <td><a href="#">服务器进程配置</a></td>
                         <td><img src="images/037.gif" width="9" height="9" /> [<a href="#">编辑</a>]</td>
                     </tr>

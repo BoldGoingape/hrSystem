@@ -8,7 +8,7 @@ import java.util.List;
 public class ItemsDaoImpl implements ItmsDao {
     @Override
     public List<items> findAll() throws Exception {
-        //大数据库结果集转成java list 集合
+        //将数据库结果集转成java list 集合
         List<items> list= new ArrayList<items>();
         //获取java的connection 对象
         Connection connection=null;
